@@ -85,10 +85,6 @@ The project uses several dependencies, as specified in `package.json`:
 - **ethers**: For interacting with the Ethereum blockchain.
 - **hardhat**: A development environment for Ethereum.
 
-## License
-
-This project is licensed under the ISC License.
-
 ## Getting Started
 
 To get started with the project:
@@ -97,7 +93,3 @@ To get started with the project:
 2. Install dependencies using `npm install`.
 3. Deploy the contracts using the deployment script.
 4. Run tests using `npx hardhat test`.
-
-## Conclusion
-
-This documentation provides an overview of the ERC-4626 Uniswap project, its structure, and how to interact with it. For further details, refer to the individual contract files and the README.md for additional context.
